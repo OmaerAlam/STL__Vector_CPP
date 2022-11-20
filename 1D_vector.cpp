@@ -11,4 +11,3 @@ int main(){
    cout<<v[1]<<endl;//print Vector...
     return 0;
 }
-//omaer
